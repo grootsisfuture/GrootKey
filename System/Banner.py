@@ -3,7 +3,7 @@ import Global
 
 def Banner():
 	print ' _______ '
-	print '< HatKey >'
+	print '< GrootKey >'
 	print ' ------- '
 	print '        \   ^__^'
 	print '         \  (xx)\_______'
