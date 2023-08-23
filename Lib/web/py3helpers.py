@@ -1,7 +1,7 @@
 """Utilities for make the code run both on Python2 and Python3.
 """
 import sys
-
+#grootkey
 PY2 = sys.version_info[0] == 2
 
 # urljoin
