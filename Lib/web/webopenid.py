@@ -18,7 +18,7 @@ Notes:
  - We set cookies starting with "openid_".
 
 """
-
+#grootkey
 import os
 import random
 import hmac
