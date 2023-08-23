@@ -7,7 +7,7 @@ Copyright (c) 2005, the Lawrence Journal-World
 Used under the modified BSD license:
 http://www.xfree86.org/3.3.6/COPYRIGHT2.html#5
 """
-
+#grootkey
 __all__ = ["debugerror", "djangoerror", "emailerrors"]
 
 import sys, pprint, traceback
