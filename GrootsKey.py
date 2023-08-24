@@ -93,7 +93,7 @@ def main():
 	Banner.Banner()
 	Command().help()
 	while True:
-		input	= raw_input('HatKey > ').strip().split()
+		input	= raw_input('GrootsKey > ').strip().split()
 		if(input):
 			if(input[0] in Command.COMMANDS):
 				result = getattr(globals()['Command'](),input[0])(input)	
